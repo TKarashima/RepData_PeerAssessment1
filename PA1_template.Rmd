@@ -7,7 +7,7 @@ output:
 
 ```{r workingDirectory, eval = FALSE, echo = FALSE}
 setwd("./Coursera_ReproResearch/RepData_PeerAssessment1")
-
+# Set the working directory.
 ```
 
 ```{r options}
