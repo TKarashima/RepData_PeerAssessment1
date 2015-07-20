@@ -102,27 +102,27 @@ sum_by_day[sum.day > 0] %>% ggvis(~sum.day) %>%
                                          labels = list(fontSize = 0)))
 ```
 
-<!--html_preserve--><div id="plot_id776486910-container" class="ggvis-output-container">
-<div id="plot_id776486910" class="ggvis-output"></div>
+<!--html_preserve--><div id="plot_id696067032-container" class="ggvis-output-container">
+<div id="plot_id696067032" class="ggvis-output"></div>
 <div class="plot-gear-icon">
 <nav class="ggvis-control">
 <a class="ggvis-dropdown-toggle" title="Controls" onclick="return false;"></a>
 <ul class="ggvis-dropdown">
 <li>
 Renderer: 
-<a id="plot_id776486910_renderer_svg" class="ggvis-renderer-button" onclick="return false;" data-plot-id="plot_id776486910" data-renderer="svg">SVG</a>
+<a id="plot_id696067032_renderer_svg" class="ggvis-renderer-button" onclick="return false;" data-plot-id="plot_id696067032" data-renderer="svg">SVG</a>
  | 
-<a id="plot_id776486910_renderer_canvas" class="ggvis-renderer-button" onclick="return false;" data-plot-id="plot_id776486910" data-renderer="canvas">Canvas</a>
+<a id="plot_id696067032_renderer_canvas" class="ggvis-renderer-button" onclick="return false;" data-plot-id="plot_id696067032" data-renderer="canvas">Canvas</a>
 </li>
 <li>
-<a id="plot_id776486910_download" class="ggvis-download" data-plot-id="plot_id776486910">Download</a>
+<a id="plot_id696067032_download" class="ggvis-download" data-plot-id="plot_id696067032">Download</a>
 </li>
 </ul>
 </nav>
 </div>
 </div>
 <script type="text/javascript">
-var plot_id776486910_spec = {
+var plot_id696067032_spec = {
   "data": [
     {
       "name": ".0/bin1/stack2",
@@ -274,7 +274,7 @@ var plot_id776486910_spec = {
   },
   "handlers": null
 };
-ggvis.getPlot("plot_id776486910").parseSpec(plot_id776486910_spec);
+ggvis.getPlot("plot_id696067032").parseSpec(plot_id696067032_spec);
 </script><!--/html_preserve-->
 
 ### Mean and median steps per day
